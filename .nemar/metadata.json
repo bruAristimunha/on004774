@@ -2,7 +2,7 @@
   "version": "2.0",
   "pipeline_stage": "validated",
   "title": "Automatic Evoked Response Detection (ER-Detect) dataset",
-  "description": "This dataset comprises intracranial EEG recordings collected to support the development and validation of automatic evoked response detection (ER-Detect) methods. Data were gathered from patients undergoing electrical stimulation mapping at Mayo Clinic and University Medical Center Utrecht, aiming to characterize cortico-cortical evoked potentials for clinical and research applications in epilepsy and brain connectivity studies.",
+  "description": "The Automatic Evoked Response Detection (ER-Detect) dataset contains intracranial EEG recordings collected during single-pulse electrical stimulation at the Mayo Clinic (Rochester, MN, USA) and the University Medical Center Utrecht (The Netherlands). It supports the development and evaluation of automated detection of stimulation-evoked cortico-cortical responses in epilepsy patients. The data are organized in BIDS format.",
   "license": "CC0",
   "dataset_type": "raw",
   "authors": {
@@ -22,6 +22,12 @@
       "term": "intracranial EEG"
     },
     {
+      "term": "electrocorticography"
+    },
+    {
+      "term": "single-pulse electrical stimulation"
+    },
+    {
       "term": "Evoked Potentials",
       "subject_scheme": "MeSH",
       "value_uri": "http://id.nlm.nih.gov/mesh/D005071"
@@ -33,12 +39,6 @@
     },
     {
       "term": "cortico-cortical evoked potentials"
-    },
-    {
-      "term": "electrical stimulation mapping"
-    },
-    {
-      "term": "brain connectivity"
     }
   ],
   "related_identifiers": [
@@ -64,7 +64,7 @@
       "award_number": "R01MH122258"
     },
     {
-      "funder_name": "Epilepsy Foundation of the Netherlands/Dutch Epilepsy Foundation",
+      "funder_name": "Epilepsy Foundation of the Netherlands (Dutch Epilepsy Foundation)",
       "award_number": "NEF17-07"
     }
   ],
@@ -73,7 +73,7 @@
     "ieeg"
   ],
   "sizes": [
-    "32.4 GB (2690 files)"
+    "30.16 GB (2690 files)"
   ],
   "formats": [
     ".eeg",
