@@ -35,6 +35,6 @@ RG33	ECOG	µV	878	0.01	intracranial	n/a	2048	n/a	good	n/a	1
 RG34	ECOG	µV	878	0.01	intracranial	n/a	2048	n/a	good	n/a	1
 RG35	ECOG	µV	878	0.01	intracranial	n/a	2048	n/a	good	n/a	1
 RG36	ECOG	µV	878	0.01	intracranial	n/a	2048	n/a	good	n/a	1
-C37	n/a	µV	878	0.01	intracranial	n/a	2048	n/a	bad	n/a	n/a
-C38	n/a	µV	878	0.01	intracranial	n/a	2048	n/a	bad	n/a	n/a
-C39	n/a	µV	878	0.01	intracranial	n/a	2048	n/a	bad	n/a	n/a
+C37	MISC	µV	878	0.01	intracranial	n/a	2048	n/a	bad	n/a	n/a
+C38	MISC	µV	878	0.01	intracranial	n/a	2048	n/a	bad	n/a	n/a
+C39	MISC	µV	878	0.01	intracranial	n/a	2048	n/a	bad	n/a	n/a

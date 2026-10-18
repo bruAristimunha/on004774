@@ -1,2 +1,6 @@
+Unreleased 2026-10-18
+  - channels.tsv: 17 rows with type 'n/a' (unconnected inputs C<n>, status bad) set to MISC (2 files).
+  - README: section 'Channel types'.
+
 1.0.0 2023-12-30
   - Initial version
