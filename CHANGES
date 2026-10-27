@@ -1,4 +1,5 @@
 1.0.1 2026-10-22
+  - Add a source-neutral headbox column Description in root channels.json; no channel values or hardware mapping are inferred or recoded.
   - channels.tsv of the 5 MEF 3 recording(s): rows in the order the MEF 3 readers (pymef, MNE read_raw_mef) return the channels, sorted by name, instead of acquisition order; mne_bids read_raw_bids stopped with "Channel mismatch" before. Rows unchanged.
   - README: section 'Channel order of the MEF 3 recordings'.
   - channels.tsv: 17 rows with type 'n/a' (unconnected inputs C<n>, status bad) set to MISC (2 files).

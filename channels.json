@@ -1,0 +1,5 @@
+{
+  "headbox": {
+    "Description": "Source-provided headbox label in the channel table; values are retained without recoding or an inferred hardware mapping."
+  }
+}
